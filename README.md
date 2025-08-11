@@ -22,7 +22,7 @@ I'm an AI/ML Developer with a strong interest in backend systems and creating ef
 
 - 🔭 I build cool little tools to help me automate my everyday tasks.
 - 🌱 While my expertise lies in python backend, I’m currently learning frontend with PySide, PyQt, HTML, CSS, JS.
-- 📫 You can reach me at **subhojitg@live.com** or **subhojigorkha@gmail.com**.
+- 📫 You can reach me at **subhojitg@live.com** or **subhojitgorkha@gmail.com**.
 
 ---
 
