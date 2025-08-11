@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm <a href="https://subhojitghimire.github.io/" style="color: #208558; text-decoration: none;"><strong>𝕾ᴜʙʜᴏᴊɪᴛ 𝕲ʜɪᴍɪʀᴇ</strong></a> 👋</h1>
 
 <p align = "center">
-<img src="https://user-images.githubusercontent.com/55135657/147878569-524b4c86-b5d0-4b4c-b01c-edd4e5e9c77a.gif">
+<img src="https://user-images.githubusercontent.com/55135657/147878569-524b4c86-b5d0-4b4c-b01c-edd4e5e9c77a.gif" alt="coverImage.gif">
 </p>
 
 <p align="center">
