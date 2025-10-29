@@ -24,6 +24,14 @@ I'm an AI/ML Developer with a strong interest in backend systems and creating ef
 - 🌱 While my expertise lies in python backend, I’m currently learning frontend with PySide, PyQt, HTML, CSS, JS.
 - 📫 You can reach me at **subhojitg@live.com** or **subhojitgorkha@gmail.com**.
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 ### 🛠️ My Tech Stack
